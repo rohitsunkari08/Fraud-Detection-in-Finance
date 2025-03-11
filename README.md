@@ -43,7 +43,7 @@ fraud-detection-system/
 ## How to Run the Project
 1. Clone the repository:
 
-git clone https://github.com/yourusername/fraud-detection-system.git
+git clone https://github.com/rohitsunkari08/Fraud-Detection-in-Finance
 cd fraud-detection-system/
 
 2. Install dependencies:
